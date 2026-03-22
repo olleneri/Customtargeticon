@@ -1,0 +1,74 @@
+{
+    "customtargeticon": {
+        "Settings": {
+			"supportMessage": {
+				"Name": "Support the Developer",
+                "Hint": "Click to select and copy the link"
+			},
+            "SniperMode": {
+                "Name": "Turn on sniper mode",
+                "Hint": "Imitates targeting"
+            },			
+            "SniperSpeed": {
+                "Name": "Speed",
+                "Hint": "How fast target icon moves"
+            },			
+            "SniperOffset": {
+                "Name": "Offset",
+                "Hint": "How far it can move from center of token"
+            },			
+			"DefaultIcon": {
+                "Name": "Default Target Icon",
+                "Hint": "Icon used when player custom icons are disabled or not set"
+            },
+            "PlayerIcons": {
+                "Name": "Custom Player Icon",
+                "Hint": "If empty, the default target icon will be used for this player"
+            },
+            "EnablePlayerIcons": {
+                "Name": "Enable Custom Player Icons",
+                "Hint": "When disabled, all players will see the default target icon"
+            },
+            "RotationSpeed": {
+                "Name": "Rotation Speed",
+                "Hint": "How fast the icon rotates (negative values reverse direction)"
+            },
+            "ScaleAnimationSpeed": {
+                "Name": "Pulsing Speed",
+                "Hint": "How fast the icon pulses (scale animation)"
+            },
+            "RotateOnMove": {
+                "Name": "Disable rotation",
+                "Hint": "When enabled, the icon rotates only when the token has speed greater than 0"
+            },
+            "IconScale": {
+                "Name": "Icon Scale",
+                "Hint": "Adjust the size of the targeting icon relative to the token"
+            },
+            "IconColor": {
+                "Name": "Icon Color",
+                "Hint": "Apply a color tint to the targeting icon (best results with white icons)"
+            },
+            "UsePlayerColor": {
+                "Name": "Use Player Colors",
+                "Hint": "Tint the icon with each player's assigned color"
+            }
+        },
+        "keybindings": {
+            "clearAllTargets": {
+                "Name": "Clear All Targets",
+                "Hint": "Press Alt+C to clear all currently targeted tokens"
+            }
+        },
+        "ManageIcons": {
+            "Button": "Manage Player Icons",
+            "Title": "Player Targeting Icons",
+            "Description": "Set custom targeting icons for each player",
+            "SetIcon": "Set Icon",
+            "ResetIcon": "Reset",
+            "IconUpdated": "Icon updated",
+            "IconReset": "Icon reset for",
+            "Note": "Note: Players will see their own icon on tokens they target. The GM sees all player icons."
+        }
+    }
+}

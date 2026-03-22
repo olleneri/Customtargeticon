@@ -1,0 +1,30 @@
+{
+  "id": "customtargeticon",
+  "title": "Custom Target Icon",
+  "description": "Changes some visual aspects of the pause popup",
+  "authors": [
+    {
+    "name": "Kraivo"
+    }
+  ],
+  "version": "1.0.4",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.500"
+  },
+  "esmodules": [
+	"scripts/customtargeticon.mjs"
+  ],
+  "languages": [
+	  {
+		"lang": "en",
+		"name": "English",
+		"path": "lang/en.json"
+	  },
+      {
+            "lang": "ru",
+            "name": "Russian",
+            "path": "lang/ru.json"
+      }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+    "customtargeticon": {
+        "Settings": {
+			"supportMessage": {
+				"Name": "Поддержать разработчика",
+                "Hint": "Нажмите, чтобы выделить и скопировать"
+			},
+            "SniperMode": {
+                "Name": "Включить режим снайпера",
+                "Hint": "Имитирует прицеливание"
+            },			
+            "SniperSpeed": {
+                "Name": "Скорость",
+                "Hint": "Скорость движения прицела"
+            },			
+            "SniperOffset": {
+                "Name": "Отклонение",
+                "Hint": "Насколько сильно прицел может отклониться от центра"
+            },						
+			"DefaultIcon": {
+                "Name": "Иконка цели по умолчанию",
+                "Hint": "Иконка, которая используется по умолчанию, когда отключены кастомные иконки для игроков"
+            },
+            "PlayerIcons": {
+                "Name": "Кастомные иконки для игроков",
+                "Hint": "Если иконка отсутствует, будет использована иконка по умолчанию"
+            },
+            "EnablePlayerIcons": {
+                "Name": "Разрешить кастомные иконки игроков",
+                "Hint": "Когда отключена, все игроки используют иконку по умолчанию"
+            },
+            "RotationSpeed": {
+                "Name": "Скорость поворота",
+                "Hint": "Скорость анимации поворота. Отрицательные значения меняют направление вращения."
+            },
+            "ScaleAnimationSpeed": {
+                "Name": "Скорость пульсирования",
+                "Hint": "Для анимации увеличения/уменьшения"
+            },
+            "RotateOnMove": {
+                "Name": "Блокировать вращение",
+                "Hint": "Отключает вращение анимации"
+            },
+            "IconScale": {
+                "Name": "Размер иконки",
+                "Hint": "Позволяет настроить размер иконки"
+            },
+            "IconColor": {
+                "Name": "Цвет иконки",
+                "Hint": "Добавляет цвет к иконке прицеливания. Рекомендуется использование белых изображений"
+            },
+            "UsePlayerColor": {
+                "Name": "Использовать цвета игроков",
+                "Hint": "К иконке добавляет оттенок игрока."
+            }
+        },
+        "keybindings": {
+            "clearAllTargets": {
+                "Name": "Снять выделение",
+                "Hint": "Нажми Alt+C чтобы снять выделение со всех токенов"
+            }
+        },
+        "ManageIcons": {
+            "Button": "Manage Player Icons",
+            "Title": "Player Targeting Icons",
+            "Description": "Set custom targeting icons for each player",
+            "SetIcon": "Set Icon",
+            "ResetIcon": "Reset",
+            "IconUpdated": "Icon updated",
+            "IconReset": "Icon reset for",
+            "Note": "Note: Players will see their own icon on tokens they target. The GM sees all player icons."
+        }
+    }
+}
