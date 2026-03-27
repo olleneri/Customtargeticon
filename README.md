@@ -1,12 +1,4 @@
 # Custom Target Icon
-// <div align="center">
-//   <img src="https://img.shields.io/github/downloads/olleneri/Customtargeticon/total?color=2b82fc&label=Downloads&style=for-the-badge" alt="Total Downloads">
-//   <img src="https://img.shields.io/github/v/release/olleneri/Customtargeticon?color=2b82fc&label=Latest%20Release&style=for-the-badge" alt="Latest Release">
-//   <a href="https://boosty.to/kraivo">
-//     Support developer
-//   </a>
-//  </div>
-
 
 **Change basic targeting with more options**
 
