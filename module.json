@@ -7,13 +7,16 @@
     "name": "Kraivo"
     }
   ],
-  "version": "1.0.4",
+  "version": "1.0.0",
+  "url": "https://github.com/olleneri/Customtargeticon",
+    "manifest": "https://github.com/olleneri/Customtargeticon/blob/main/module.json",
+    "download": "https://github.com/olleneri/Customtargeticon/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13.500"
   },
   "esmodules": [
-	"scripts/customtargeticon.mjs"
+	"scripts/CustomTargetIcon.mjs"
   ],
   "languages": [
 	  {
