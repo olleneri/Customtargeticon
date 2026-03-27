@@ -40,7 +40,7 @@ Custom Target Icon allows multiple target manipulations:
 5. Enable it in your world
 
 ### Method 2: Manifest URL
-1. Copy this URL: [manifest URL](https://github.com/olleneri/Customtargeticon/blob/main/module.json)
+1. Copy this URL: [manifest URL](https://github.com/olleneri/Customtargeticon/releases/download/1.0.0/module.json)
 2. In Foundry, go to **Add-on Modules → Install Module**
 3. Paste the URL in **Manifest URL**
 4. Click **Install**
