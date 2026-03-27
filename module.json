@@ -4,7 +4,9 @@
   "description": "Changes some visual aspects of the pause popup",
   "authors": [
     {
-    "name": "Kraivo"
+    "name": "Kraivo",
+            "email": "ikraivo@gmail.com",
+            "url": "https://boosty.to/kraivo"
     }
   ],
   "version": "1.0.0",
