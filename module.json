@@ -1,7 +1,7 @@
 {
   "id": "customtargeticon",
   "title": "Custom Target Icon",
-  "description": "Changes some visual aspects of the pause popup",
+  "description": "Setup custom target icon and some animations",
   "authors": [
     {
     "name": "Kraivo",
