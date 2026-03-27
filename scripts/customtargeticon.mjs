@@ -89,7 +89,7 @@ Hooks.once('init', function() {
         hint: game.i18n.localize("customtargeticon.Settings.DefaultIcon.Hint"),
         scope: 'world',
         config: true,
-        default: 'icons/svg/clockwork.svg',
+        default: 'module/icons/OLD AIM2.png',
         type: String,
         onChange: () => {
             updateDefaultIcon();
