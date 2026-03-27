@@ -72,7 +72,7 @@ Click **"Save"** at the bottom of the window.
 
 If you like this module and would like to support my work, you can:
 
-- [Support me at https://boosty.to/kraivo](https://boosty.to/kraivo)
+- [Support me at boosty](https://boosty.to/kraivo)
 - Suggest new features or improvements
 - Report any bugs you encounter
 
