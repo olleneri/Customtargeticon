@@ -8,7 +8,7 @@
     }
   ],
   "version": "1.0.0",
-  "url": "https://github.com/olleneri/Customtargeticon",
+    "url": "https://github.com/olleneri/Customtargeticon",
     "manifest": "https://github.com/olleneri/Customtargeticon/blob/main/module.json",
     "download": "https://github.com/olleneri/Customtargeticon/releases/download/1.0.0/module.zip",
   "compatibility": {
@@ -16,7 +16,7 @@
     "verified": "13.500"
   },
   "esmodules": [
-	"scripts/CustomTargetIcon.mjs"
+	"scripts/customtargeticon.mjs"
   ],
   "languages": [
 	  {
