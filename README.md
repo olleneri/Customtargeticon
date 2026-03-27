@@ -40,10 +40,10 @@ Custom Target Icon allows multiple target manipulations:
 
 ## 🎯 Installation
 
-### Method 1: Module Browser (Currently unavailable)
+### Method 1: Module Browser (Currently unavailable, will try to add later)
 1. In Foundry VTT, go to **Add-on Modules**
 2. Click **Install Module**
-3. Search for **"Alter Ego"**
+3. Search for **"Custom Target Icon"**
 4. Click **Install**
 5. Enable it in your world
 
